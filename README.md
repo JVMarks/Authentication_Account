@@ -1,7 +1,6 @@
 <h1 align="center">
 Authentication Account
 </h1>
-
 ## Techs
 - [x] React.js
 - [x] Styled Components
